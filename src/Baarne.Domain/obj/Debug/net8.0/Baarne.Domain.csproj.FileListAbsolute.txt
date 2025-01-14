@@ -1,0 +1,12 @@
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/bin/Debug/net8.0/Baarne.Domain.deps.json
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/bin/Debug/net8.0/Baarne.Domain.dll
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/bin/Debug/net8.0/Baarne.Domain.pdb
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.csproj.AssemblyReference.cache
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.AssemblyInfo.cs
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.dll
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/refint/Baarne.Domain.dll
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.pdb
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/ref/Baarne.Domain.dll

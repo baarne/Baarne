@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFe9lenb+wk=",
+  "success": true,
+  "projectFilePath": "/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/Baarne.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/enescanaydemir/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/enescanaydemir/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
