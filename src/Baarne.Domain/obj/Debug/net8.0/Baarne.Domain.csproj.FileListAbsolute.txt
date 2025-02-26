@@ -6,8 +6,8 @@
 /Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.AssemblyInfoInputs.cache
 /Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.AssemblyInfo.cs
 /Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.sourcelink.json
 /Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.dll
 /Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/refint/Baarne.Domain.dll
 /Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.pdb
 /Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/ref/Baarne.Domain.dll
-/Users/enescanaydemir/dev/Baarne/src/Baarne.Domain/obj/Debug/net8.0/Baarne.Domain.sourcelink.json

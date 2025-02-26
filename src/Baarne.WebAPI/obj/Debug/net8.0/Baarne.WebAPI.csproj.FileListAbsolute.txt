@@ -142,6 +142,7 @@
 /Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/Baarne.WebAPI.csproj.CoreCompileInputs.cache
 /Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/Baarne.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 /Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/Baarne.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/Baarne.WebAPI.sourcelink.json
 /Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/staticwebassets.build.json
 /Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/staticwebassets.development.json
 /Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.Baarne.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -156,4 +157,3 @@
 /Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/Baarne.WebAPI.pdb
 /Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/Baarne.WebAPI.genruntimeconfig.cache
 /Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/ref/Baarne.WebAPI.dll
-/Users/enescanaydemir/dev/Baarne/src/Baarne.WebAPI/obj/Debug/net8.0/Baarne.WebAPI.sourcelink.json

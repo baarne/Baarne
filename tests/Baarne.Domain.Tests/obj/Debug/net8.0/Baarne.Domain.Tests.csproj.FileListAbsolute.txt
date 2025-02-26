@@ -95,10 +95,10 @@
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/Baarne.Domain.Tests.AssemblyInfoInputs.cache
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/Baarne.Domain.Tests.AssemblyInfo.cs
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/Baarne.Domain.Tests.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/Baarne.Domain.Tests.sourcelink.json
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/Baarne.D.A6DC697B.Up2Date
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/Baarne.Domain.Tests.dll
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/refint/Baarne.Domain.Tests.dll
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/Baarne.Domain.Tests.pdb
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/Baarne.Domain.Tests.genruntimeconfig.cache
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/ref/Baarne.Domain.Tests.dll
-/Users/enescanaydemir/dev/Baarne/tests/Baarne.Domain.Tests/obj/Debug/net8.0/Baarne.Domain.Tests.sourcelink.json

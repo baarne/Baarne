@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baarne.Application.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55c46b8133612884f0274a682f9759ddf771f903")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dad90cf7402adbb7fc0c2dd5afb72d35b2cff64e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baarne.Application.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baarne.Application.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

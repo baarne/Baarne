@@ -104,10 +104,10 @@
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/Baarne.Application.Tests.AssemblyInfoInputs.cache
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/Baarne.Application.Tests.AssemblyInfo.cs
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/Baarne.Application.Tests.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/Baarne.Application.Tests.sourcelink.json
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/Baarne.A.433BF00B.Up2Date
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/Baarne.Application.Tests.dll
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/refint/Baarne.Application.Tests.dll
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/Baarne.Application.Tests.pdb
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/Baarne.Application.Tests.genruntimeconfig.cache
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/ref/Baarne.Application.Tests.dll
-/Users/enescanaydemir/dev/Baarne/tests/Baarne.Application.Tests/obj/Debug/net8.0/Baarne.Application.Tests.sourcelink.json

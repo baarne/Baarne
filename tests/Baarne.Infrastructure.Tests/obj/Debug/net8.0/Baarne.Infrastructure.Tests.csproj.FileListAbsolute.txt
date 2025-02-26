@@ -121,10 +121,10 @@
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/Baarne.Infrastructure.Tests.AssemblyInfoInputs.cache
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/Baarne.Infrastructure.Tests.AssemblyInfo.cs
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/Baarne.Infrastructure.Tests.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/Baarne.Infrastructure.Tests.sourcelink.json
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/Baarne.I.28BB5AA8.Up2Date
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/Baarne.Infrastructure.Tests.dll
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/refint/Baarne.Infrastructure.Tests.dll
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/Baarne.Infrastructure.Tests.pdb
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/Baarne.Infrastructure.Tests.genruntimeconfig.cache
 /Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/ref/Baarne.Infrastructure.Tests.dll
-/Users/enescanaydemir/dev/Baarne/tests/Baarne.Infrastructure.Tests/obj/Debug/net8.0/Baarne.Infrastructure.Tests.sourcelink.json
