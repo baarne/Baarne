@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baarne.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dad90cf7402adbb7fc0c2dd5afb72d35b2cff64e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2eb72eb15f1af24cfd21453b6e4fac89a7466c02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baarne.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baarne.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
