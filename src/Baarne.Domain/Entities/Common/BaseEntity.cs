@@ -7,7 +7,7 @@ namespace Baarne.Domain.Entities.Common
         public int Id { get; set; }
 
         //Audit Fields
-        public DateTime CreatedAd { get; set; } = DateTime.UtcNow;
+        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public string CreatedBy { get; set; }
 
         public DateTime? UpdatedAt { get; set; }
