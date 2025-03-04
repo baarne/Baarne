@@ -1,8 +1,9 @@
 using System;
+using Baarne.Domain.Entities.Common;
 
 namespace Baarne.Domain.Entities.Admin
 {
-    public class Admin
+    public class Admin : BaseEntity
     {
         public string Name { get; set; }
         public string Email { get; set; }

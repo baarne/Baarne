@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baarne.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2eb72eb15f1af24cfd21453b6e4fac89a7466c02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eafd9fd3497a700364ef2a3fbaa8f4cfe7a61255")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baarne.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baarne.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

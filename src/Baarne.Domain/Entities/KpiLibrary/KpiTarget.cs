@@ -7,7 +7,7 @@ namespace Baarne.Domain.Entities.KpiLibrary
     {
         public int SelectionKpiId { get; set; }
         public decimal TargetValue { get; set; }
-        public DateTime ValidForm { get; set; }
+        public DateTime ValidFrom { get; set; }
         public DateTime ValidUntil { get; set; }
 
         public SelectedKpi SelectionKpi { get; set; }

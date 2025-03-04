@@ -10,7 +10,7 @@ namespace Baarne.Domain.Entities.Admin
         public string Description { get; set; }
         public int AdminRoleId { get; set; }
 
-        public AdminPlanDefinition MyProperty { get; set; }
+        public AdminPlanDefinition PlanDefiniton { get; set; }
         public AdminRole Role { get; set; }
     }
 }

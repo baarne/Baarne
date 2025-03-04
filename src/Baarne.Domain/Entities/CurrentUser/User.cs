@@ -11,7 +11,7 @@ namespace Baarne.Domain.Entities.CurrentUser
         //Kullanıcı bilgileri
         public string Email { get; set; }
         public string PasswordHash { get; set; }
-        public string CompanyId { get; set; }
+        public int CompanyId { get; set; }
 
         //Kullanıcı ile Company arasında ilişki (eğer kullanıcı şirkete bağlıysa)
         public Company Company { get; set; }

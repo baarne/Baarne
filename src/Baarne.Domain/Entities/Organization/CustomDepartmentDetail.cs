@@ -1,9 +1,10 @@
 using System;
+using Baarne.Domain.Entities.Common;
 using Baarne.Domain.Entities.CurrentUser;
 
 namespace Baarne.Domain.Entities.Organization
 {
-    public class CustomDepartmentDetail
+    public class CustomDepartmentDetail : BaseEntity
     {
         public int UserId { get; set; }
         public int DepartmentId { get; set; }
